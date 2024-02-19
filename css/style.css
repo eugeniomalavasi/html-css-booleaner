@@ -22,7 +22,7 @@ header {
   
 }
 
-main {
+main,footer {
     padding-left: 10px;
 }
 
@@ -68,6 +68,31 @@ table {
     background-color: #d2f2ff;
 }
 
+.footer_p {
+    color: gray;
+}
 
+.img_footer_1 {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 200px;
+    background-size: contain;
+}
 
+.img_footer_2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 200px;
+    background-size: contain;
+}
+
+.text_over_img {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+}
 
