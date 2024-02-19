@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: auto;
+    height: 100px;
+    background-size: 30%;
+    background-image: url(../img/pattern.png);
+    background-color: #1BB1EA;
+    position: relative;
+    
+}
+
+.logo_img {
+    position: absolute;
+    background-image: url(../img/logo.svg);
+    height: 100px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: 0 45px;
+    
+}
