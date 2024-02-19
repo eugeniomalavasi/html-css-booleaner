@@ -52,3 +52,22 @@ h3 {
     background-color: orange;
 }
 
+table {
+    text-align: left;    
+}
+
+.third_clmn {
+    width: 50%;
+}
+
+.table_head_color {
+    background-color: #1BB1EA;
+}
+
+.table_body_color {
+    background-color: #d2f2ff;
+}
+
+
+
+
