@@ -35,11 +35,19 @@ h3 {
     font-size: 20px;
 }
 
+.creator_subt {
+    color: #1BB1EA;
+}
+
 .creation_date {
     color: gray;
     font-size: 12px;
-
 }
-.creator_subt {
-    color: #1BB1EA;
+
+.photo_description {
+    font-size: 12px;
+}
+
+.evidence_text {
+    background-color: orange;
 }
