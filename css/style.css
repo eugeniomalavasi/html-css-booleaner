@@ -18,6 +18,28 @@ header {
     height: 100px;
     width: 200px;
     background-repeat: no-repeat;
-    background-position: 0 45px;
-    
+    background-position: 10px 45px;
+  
+}
+
+main {
+    padding-left: 10px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    color: gray;
+    font-size: 20px;
+}
+
+.creation_date {
+    color: gray;
+    font-size: 12px;
+
+}
+.creator_subt {
+    color: #1BB1EA;
 }
