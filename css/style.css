@@ -52,8 +52,13 @@ h3 {
     background-color: orange;
 }
 
+ol {
+    padding-left: 17px;
+}
+
 table {
-    text-align: left;    
+    text-align: left;
+    border-collapse: collapse;    
 }
 
 .third_clmn {
